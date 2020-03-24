@@ -5,13 +5,12 @@ This project comprises a complete redesign of the clothing retail portal for JET
 ---
 
 How to start the project in development mode using webpack-dev-server with HMR
-   If you haven't installed dependencies run:
+   Install initial packages and dependencies:
    ``` bash
    npm install
    ``` 
-   to install initial packages
-   Run 
+   To start the dev server run: 
    ```bash
    npm start
    ```
-   to start the dev server which should open a browser tab and server index.html
+   This should open a browser tab and server index.html
